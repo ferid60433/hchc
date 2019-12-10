@@ -1,1 +1,1 @@
-# hchc is designed to server at a legal court
+# hchc is designed to serve at a legal court
