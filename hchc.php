@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
+    <meta name="description" content="Court Case Management System">
     <meta name="author" content="CyberTech System Development & Deployment...Developer Ferid Ibrahim">
     
 
